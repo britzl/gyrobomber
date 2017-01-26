@@ -1,0 +1,4 @@
+mesh: "/main/cube.dae"
+material: "/main/model.material"
+textures: "/main/images/logo.png"
+name: "unnamed"

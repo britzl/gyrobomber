@@ -1,0 +1,4 @@
+mesh: "/main/quad.dae"
+material: "/main/camera.material"
+textures: "/main/images/camera.png"
+name: "unnamed"

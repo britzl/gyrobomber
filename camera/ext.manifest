@@ -1,0 +1,14 @@
+name: "Camera"
+
+platforms:
+  x86_64-osx:
+    context:
+        frameworks: ["AVFoundation", "CoreMedia"]
+
+  arm64-ios:
+    context:
+        frameworks: ["AVFoundation", "CoreMedia"]
+
+  armv7-ios:
+    context:
+        frameworks: ["AVFoundation", "CoreMedia"]

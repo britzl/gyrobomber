@@ -1,0 +1,7 @@
+mesh: "/main/cube.dae"
+material: "/main/model.material"
+textures: "/main/images/video.png"
+skeleton: ""
+animations: ""
+default_animation: ""
+name: "unnamed"
